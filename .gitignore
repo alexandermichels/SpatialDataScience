@@ -1,6 +1,7 @@
 Visualization/*.png
 Visualization/*.gif
 Visualization/*.html
+IndicesSuitability/cache/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
