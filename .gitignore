@@ -2,6 +2,7 @@ Visualization/*.png
 Visualization/*.gif
 Visualization/*.html
 IndicesSuitability/cache/*
+MLAI/SVIData.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
