@@ -1157,7 +1157,7 @@
     <edge source="81742718" target="82066951" id="0">
       <data key="d8">[866974523, 1349979487]</data>
       <data key="d12">True</data>
-      <data key="d9">['3', '1']</data>
+      <data key="d9">['1', '3']</data>
       <data key="d10">Tatum Street</data>
       <data key="d11">tertiary</data>
       <data key="d13">False</data>
@@ -1177,7 +1177,7 @@
     <edge source="81742729" target="81742718" id="0">
       <data key="d8">[1042965320, 1042965318, 1042965319]</data>
       <data key="d12">True</data>
-      <data key="d9">['2', '3', '4']</data>
+      <data key="d9">['4', '2', '3']</data>
       <data key="d10">Waterview Parkway</data>
       <data key="d11">secondary</data>
       <data key="d16">40 mph</data>
@@ -1258,7 +1258,7 @@
     <edge source="81742786" target="81742802" id="0">
       <data key="d8">[1098556192, 1177082803, 1177346383]</data>
       <data key="d12">True</data>
-      <data key="d9">['2', '3', '4']</data>
+      <data key="d9">['4', '2', '3']</data>
       <data key="d10">Waterview Parkway</data>
       <data key="d11">secondary</data>
       <data key="d16">40 mph</data>
@@ -1916,7 +1916,7 @@
     <edge source="150074984" target="81742752" id="0">
       <data key="d8">[1465999841, 1465999860, 1042965317]</data>
       <data key="d12">True</data>
-      <data key="d9">['2', '3', '4']</data>
+      <data key="d9">['4', '2', '3']</data>
       <data key="d10">Waterview Parkway</data>
       <data key="d11">secondary</data>
       <data key="d16">40 mph</data>
@@ -1937,7 +1937,7 @@
     <edge source="150076788" target="150086965" id="0">
       <data key="d8">[1042965313, 1042965314, 1042965315, 1210935714, 1470225221, 1465999851]</data>
       <data key="d12">True</data>
-      <data key="d9">['2', '3', '4']</data>
+      <data key="d9">['4', '2', '3']</data>
       <data key="d10">Waterview Parkway</data>
       <data key="d11">secondary</data>
       <data key="d16">40 mph</data>
@@ -1955,7 +1955,7 @@
     <edge source="150080124" target="1080849229" id="0">
       <data key="d8">[1426760160, 1315267672]</data>
       <data key="d12">True</data>
-      <data key="d9">['3', '4']</data>
+      <data key="d9">['4', '3']</data>
       <data key="d10">Waterview Parkway</data>
       <data key="d11">secondary</data>
       <data key="d16">40 mph</data>
@@ -1973,7 +1973,7 @@
     <edge source="150080126" target="9906003476" id="0">
       <data key="d8">[1042965308, 1042965309, 1470225222]</data>
       <data key="d12">True</data>
-      <data key="d9">['2', '3', '4']</data>
+      <data key="d9">['4', '2', '3']</data>
       <data key="d10">Waterview Parkway</data>
       <data key="d11">secondary</data>
       <data key="d16">40 mph</data>
@@ -2011,7 +2011,7 @@
     <edge source="150084857" target="150076788" id="0">
       <data key="d8">[1465999856, 1042965311, 1349979478, 1465999855]</data>
       <data key="d12">True</data>
-      <data key="d9">['2', '3', '4']</data>
+      <data key="d9">['4', '2', '3']</data>
       <data key="d10">Waterview Parkway</data>
       <data key="d11">secondary</data>
       <data key="d16">40 mph</data>
@@ -2080,7 +2080,7 @@
     <edge source="150086967" target="2844618742" id="0">
       <data key="d8">[1177346385, 1098556194, 1465999853, 1465999854]</data>
       <data key="d12">True</data>
-      <data key="d9">['2', '3', '4']</data>
+      <data key="d9">['4', '2', '3']</data>
       <data key="d10">Waterview Parkway</data>
       <data key="d11">secondary</data>
       <data key="d16">40 mph</data>
@@ -2445,7 +2445,7 @@
     <edge source="150138780" target="150080124" id="0">
       <data key="d8">[1148626465, 1426760161]</data>
       <data key="d12">True</data>
-      <data key="d9">['3', '4']</data>
+      <data key="d9">['4', '3']</data>
       <data key="d10">Waterview Parkway</data>
       <data key="d11">secondary</data>
       <data key="d16">40 mph</data>
@@ -2605,7 +2605,7 @@
       <data key="d9">3</data>
       <data key="d10">Franklyn Jenifer Drive</data>
       <data key="d11">unclassified</data>
-      <data key="d16">['20 mph', '25 mph']</data>
+      <data key="d16">['25 mph', '20 mph']</data>
       <data key="d13">True</data>
       <data key="d14">432.29400000000004</data>
       <data key="d15">LINESTRING (-96.753754 32.985682, -96.7536708 32.9856806, -96.7536406 32.9856805, -96.7534022 32.9856795, -96.7531411 32.985679, -96.7525783 32.9856739, -96.7525057 32.9856739, -96.7523696 32.9856742, -96.7523111 32.9856728, -96.7518072 32.9856531, -96.7514975 32.9856504, -96.7511093 32.9856489, -96.7510793 32.9856483, -96.7510206 32.9856485, -96.7510176 32.9856031, -96.7510178 32.9855785, -96.7510187 32.985463, -96.7510207 32.9853098, -96.7510271 32.9847145, -96.7510337 32.9843209, -96.7510375 32.9841298, -96.751039 32.9840543)</data>
@@ -2793,7 +2793,7 @@
     <edge source="150174158" target="150174150" id="0">
       <data key="d8">[1098359912, 1177346372, 625192134]</data>
       <data key="d12">True</data>
-      <data key="d9">['2', '4']</data>
+      <data key="d9">['4', '2']</data>
       <data key="d10">West Lookout Drive</data>
       <data key="d11">tertiary</data>
       <data key="d16">30 mph</data>
@@ -3420,7 +3420,7 @@
       <data key="d9">2</data>
       <data key="d10">Loop Road SW</data>
       <data key="d11">unclassified</data>
-      <data key="d16">['15 mph', '25 mph']</data>
+      <data key="d16">['25 mph', '15 mph']</data>
       <data key="d13">[False, True]</data>
       <data key="d14">232.80699999999996</data>
       <data key="d15">LINESTRING (-96.7485894 32.9842017, -96.7487213 32.9841375, -96.7488772 32.9840667, -96.7489517 32.9840466, -96.749016 32.9840398, -96.7491046 32.9840392, -96.7491946 32.9840387, -96.7494018 32.9840399, -96.7497482 32.984041, -96.7499532 32.9840434, -96.7500274 32.9840433, -96.7500429 32.9840438, -96.7500758 32.9840443, -96.7501375 32.9840448, -96.7502115 32.9840455, -96.7507693 32.9840511, -96.7508347 32.9840517, -96.7509303 32.9840531, -96.751039 32.9840543)</data>
@@ -3466,7 +3466,7 @@
       <data key="d16">15 mph</data>
       <data key="d13">[False, True]</data>
       <data key="d14">752.082</data>
-      <data key="d10">['Drive D', 'Drive E']</data>
+      <data key="d10">['Drive E', 'Drive D']</data>
       <data key="d15">LINESTRING (-96.7537358 32.9883649, -96.7536544 32.988367, -96.7536368 32.988367, -96.7535747 32.9883671, -96.7535211 32.9883668, -96.7524227 32.9883609, -96.7524094 32.9883608, -96.7523534 32.9883605, -96.7522863 32.9883603, -96.7522456 32.9883602, -96.7522282 32.98836, -96.752051 32.9883582, -96.7517623 32.9883544, -96.7515491 32.9883529, -96.7515485 32.988395, -96.7515454 32.9885945, -96.7515428 32.9887409, -96.7515408 32.9887856, -96.7515278 32.988837, -96.7515106 32.988886, -96.7514883 32.9889286, -96.7514596 32.9889716, -96.7514303 32.9890059, -96.7513827 32.9890477, -96.7513066 32.9890985, -96.7512295 32.9891353, -96.7512248 32.9895576, -96.7512285 32.9895845, -96.7512483 32.989602, -96.7512778 32.9896176, -96.7513219 32.9896233, -96.7514306 32.9896233, -96.7515281 32.9896237, -96.7515496 32.9896238, -96.7519538 32.9896254, -96.7520394 32.9896268, -96.7522728 32.9896291, -96.7524968 32.9896313, -96.7526604 32.9896325, -96.7529166 32.9896336, -96.7529839 32.9896332, -96.7530523 32.9896312, -96.7530757 32.9896291, -96.7531634 32.9896164, -96.7532741 32.989598, -96.7534956 32.989561, -96.7536702 32.9895336, -96.7538642 32.9894935, -96.7540947 32.989447, -96.7541751 32.9894212, -96.7542368 32.9893852, -96.7542364 32.9892741, -96.7542356 32.9890824, -96.7542356 32.9890713, -96.7542345 32.9887779, -96.754235 32.9886128, -96.7542353 32.9885377, -96.7542349 32.9884452, -96.7542345 32.9883649)</data>
     </edge>
     <edge source="1482473266" target="150169771" id="0">
@@ -3540,7 +3540,7 @@
     <edge source="2844618742" target="150084858" id="0">
       <data key="d8">[1465999848, 1177346387, 1465999852]</data>
       <data key="d12">True</data>
-      <data key="d9">['2', '3', '4']</data>
+      <data key="d9">['4', '2', '3']</data>
       <data key="d10">Waterview Parkway</data>
       <data key="d11">secondary</data>
       <data key="d16">40 mph</data>
@@ -3709,7 +3709,7 @@
     <edge source="3097952521" target="4650135207" id="0">
       <data key="d8">[571721620, 1074726702]</data>
       <data key="d12">True</data>
-      <data key="d9">['2', '4']</data>
+      <data key="d9">['4', '2']</data>
       <data key="d10">Synergy Park Boulevard</data>
       <data key="d11">tertiary</data>
       <data key="d16">40 mph</data>
@@ -3740,7 +3740,7 @@
     <edge source="3100840876" target="150054618" id="0">
       <data key="d8">[1434797665, 1434797666, 1177346335, 545113561, 1470257340, 1470257341, 1470257342, 1024439231]</data>
       <data key="d12">True</data>
-      <data key="d9">['3', '4']</data>
+      <data key="d9">['4', '3']</data>
       <data key="d10">Synergy Park Boulevard</data>
       <data key="d11">tertiary</data>
       <data key="d16">40 mph</data>
@@ -4172,7 +4172,7 @@
     <edge source="5251145066" target="3014447892" id="0">
       <data key="d8">[1087412513, 866974526]</data>
       <data key="d12">True</data>
-      <data key="d9">['2', '1']</data>
+      <data key="d9">['1', '2']</data>
       <data key="d10">Loop Road SW</data>
       <data key="d11">unclassified</data>
       <data key="d16">20 mph</data>
@@ -4311,7 +4311,7 @@
     <edge source="5251145174" target="1482473266" id="1">
       <data key="d8">[543192272, 543192273, 557348586, 134921832]</data>
       <data key="d12">False</data>
-      <data key="d10">['Drive D', 'Drive E']</data>
+      <data key="d10">['Drive E', 'Drive D']</data>
       <data key="d11">residential</data>
       <data key="d16">15 mph</data>
       <data key="d13">[False, True]</data>
@@ -4335,7 +4335,7 @@
       <data key="d9">2</data>
       <data key="d10">Loop Road SW</data>
       <data key="d11">unclassified</data>
-      <data key="d16">['15 mph', '25 mph']</data>
+      <data key="d16">['25 mph', '15 mph']</data>
       <data key="d13">[False, True]</data>
       <data key="d14">232.80700000000002</data>
       <data key="d15">LINESTRING (-96.751039 32.9840543, -96.7509303 32.9840531, -96.7508347 32.9840517, -96.7507693 32.9840511, -96.7502115 32.9840455, -96.7501375 32.9840448, -96.7500758 32.9840443, -96.7500429 32.9840438, -96.7500274 32.9840433, -96.7499532 32.9840434, -96.7497482 32.984041, -96.7494018 32.9840399, -96.7491946 32.9840387, -96.7491046 32.9840392, -96.749016 32.9840398, -96.7489517 32.9840466, -96.7488772 32.9840667, -96.7487213 32.9841375, -96.7485894 32.9842017)</data>
@@ -4355,7 +4355,7 @@
       <data key="d8">[590080400, 544926257, 590080406, 1177082807, 1177082808, 1177082806]</data>
       <data key="d12">False</data>
       <data key="d11">unclassified</data>
-      <data key="d16">['20 mph', '25 mph']</data>
+      <data key="d16">['25 mph', '20 mph']</data>
       <data key="d13">False</data>
       <data key="d14">432.29400000000004</data>
       <data key="d9">3</data>
@@ -4592,7 +4592,7 @@
     <edge source="5375237168" target="150086967" id="0">
       <data key="d8">[1177346386, 1177346380, 1465999845]</data>
       <data key="d12">True</data>
-      <data key="d9">['2', '4']</data>
+      <data key="d9">['4', '2']</data>
       <data key="d10">Waterview Parkway</data>
       <data key="d11">secondary</data>
       <data key="d16">40 mph</data>
@@ -4685,7 +4685,7 @@
     <edge source="7018969660" target="2844618774" id="0">
       <data key="d8">[750684345, 1177082786]</data>
       <data key="d12">True</data>
-      <data key="d9">['2', '1']</data>
+      <data key="d9">['1', '2']</data>
       <data key="d10">North Loop Road</data>
       <data key="d11">unclassified</data>
       <data key="d16">20 mph</data>
@@ -4887,7 +4887,7 @@
       <data key="d14">22.353</data>
       <data key="d15">LINESTRING (-96.7511766 32.9966253, -96.7511001 32.9965384, -96.751053 32.9964542)</data>
     </edge>
-    <data key="d0">2026-09-10 16:52:21</data>
+    <data key="d0">2026-09-17 19:57:01</data>
     <data key="d1">OSMnx 1.9.4</data>
     <data key="d2">epsg:4326</data>
     <data key="d3">True</data>
